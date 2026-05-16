@@ -3247,6 +3247,7 @@ MonoBehaviour:
   greatAudio: {fileID: 8300000, guid: 53fb5dfc8f6bef847a0040f20c731dda, type: 3}
   missAudio: {fileID: 8300000, guid: 27161c30d4a31e94a9c5141ab435f9cf, type: 3}
   gameOverAudio: {fileID: 8300000, guid: d42e0fc79d4f2414596c9d5692cb779f, type: 3}
+  winAudio: {fileID: 8300000, guid: f263b8777d5c7304d901dda4099cfa50, type: 3}
   bgmSource: {fileID: 572916750}
   perfectZone: 0.5
   greatZone: 1
